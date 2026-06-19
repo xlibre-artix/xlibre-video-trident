@@ -1,10 +1,10 @@
 ---
-version: 25.0.0-6
+version: 25.0.0-7
 pkgbase:
   name: xlibre-video-trident
   pkgdesc: XLibre fork of trident video driver
   pkgver: 25.0.0
-  pkgrel: 6
+  pkgrel: 7
   url: https://github.com/X11Libre/xf86-video-trident
   arch:
     - x86_64
@@ -29,4 +29,4 @@ pkgbase:
     - 41a5d8032816e3e63943acaa9646159a2bcc7b81ff350f802c5f478d1cac9802
 pkgname:
   - name: xlibre-video-trident
-# generated with artixpkg 0.37.4-1-any
+# generated with artixpkg 0.38.5-1-any
